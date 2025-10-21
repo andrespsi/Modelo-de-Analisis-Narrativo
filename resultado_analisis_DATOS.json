@@ -1,0 +1,308 @@
+{
+    "guion_tecnico": [
+        {
+            "encabezado": "ESCENA 1 (0.00s - 3.53s)",
+            "dialogo": "Diálogo (ON)",
+            "dialogo_texto": "Tu barba no crece, aunque le rece, desliza.",
+            "musica": "No se detecta música.",
+            "foleys": [
+                "Crackle",
+                "Ship",
+                "Motor vehicle (road)",
+                "Idling"
+            ],
+            "descripcion_visual_enriquecida": "Luz dura lateral ilumina al personaje principal. Viste un sombrero. Tiene una barba larga. Inclina la cabeza y pasa los dedos lentamente a través de su barba.",
+            "tipo_de_plano": "Plano Medio",
+            "movimientos_de_camara": [
+                "Plano Estático"
+            ],
+            "texto_en_pantalla": "TikTok @elturco.pe AUNQUE"
+        },
+        {
+            "encabezado": "ESCENA 2 (3.53s - 4.44s)",
+            "dialogo": "Voz en Off (OFF)",
+            "dialogo_texto": "necesito",
+            "musica": "No se detecta música.",
+            "foleys": [
+                "Crackle",
+                "Ship",
+                "Motor vehicle (road)"
+            ],
+            "descripcion_visual_enriquecida": "Luz dura cenital. El personaje principal, un hombre con barba larga y sombrero, está de pie. Viste una chaqueta oscura. Sostiene un teléfono móvil con ambas manos a la altura del pecho. Su mirada está fija en la pantalla iluminada.",
+            "tipo_de_plano": "Plano General",
+            "movimientos_de_camara": [
+                "Paneo (Travelling) hacia la derecha"
+            ],
+            "texto_en_pantalla": "TikTok @elturco.pe NECESITAS"
+        },
+        {
+            "encabezado": "ESCENA 3 (4.44s - 6.89s)",
+            "dialogo": "Voz en Off (OFF)",
+            "dialogo_texto": "un derma roller y tres padres nuestros.",
+            "musica": "No se detecta música.",
+            "foleys": [
+                "Crackle",
+                "Ship",
+                "Motor vehicle (road)",
+                "Skateboard",
+                "Idling"
+            ],
+            "descripcion_visual_enriquecida": "Un hombre con barba larga y sombrero sostiene un anillo blanco y negro entre el pulgar y el índice. Lo eleva a la altura de sus ojos bajo una luz dura cenital. Su cabeza está ligeramente inclinada.",
+            "tipo_de_plano": "Plano General",
+            "movimientos_de_camara": [
+                "Dolly Out / Zoom Out (alejamiento óptico)"
+            ],
+            "texto_en_pantalla": "j TikTok TRES @elturco.pe"
+        },
+        {
+            "encabezado": "ESCENA 4 (6.89s - 8.34s)",
+            "dialogo": "Voz en Off (OFF)",
+            "dialogo_texto": "Gracias por ver el video.",
+            "musica": "No se detecta música.",
+            "foleys": [
+                "Crackle",
+                "Drill",
+                "Explosion"
+            ],
+            "descripcion_visual_enriquecida": "PLANO MEDIO. Un hombre con barba larga y sombrero, vestido con una camisa oscura, mira directamente a cámara. La iluminación es suave y frontal. El hombre sonríe levemente y asiente con la cabeza mientras habla. Al terminar, la imagen se funde a negro y aparece un logo.",
+            "tipo_de_plano": "Plano General",
+            "movimientos_de_camara": [
+                "Dolly In / Zoom In (acercamiento óptico)"
+            ],
+            "texto_en_pantalla": "EiTuRcO STOCKROOM & BARBER $ TikTok @elturco.pe"
+        },
+        {
+            "encabezado": "ESCENA 5 (8.34s - 9.01s)",
+            "dialogo": "Sin Diálogo",
+            "musica": "No se detecta música.",
+            "foleys": [
+                "Whale vocalization"
+            ],
+            "descripcion_visual_enriquecida": "Fondo negro. Un logo de color blanco ocupa el centro de la pantalla.",
+            "tipo_de_plano": "Plano General",
+            "movimientos_de_camara": [
+                "Plano Estático"
+            ],
+            "texto_en_pantalla": "fiTuRcO STOCKROOH & BHRBER'$ TikTok @elturco.pe"
+        },
+        {
+            "encabezado": "ESCENA 6 (9.01s - 11.58s)",
+            "dialogo": "Voz en Off (OFF)",
+            "dialogo_texto": "¡Suscríbete al canal!",
+            "musica": "No se detecta música.",
+            "foleys": [
+                "Whale vocalization",
+                "Crunch"
+            ],
+            "descripcion_visual_enriquecida": "Fondo negro. El personaje principal está de medio cuerpo, centrado en el plano. Mira directamente a la cámara y levanta su mano derecha, señalando con el dedo índice hacia el espectador. La escena tiene una iluminación frontal suave que lo aísla del fondo. Sobreimpreso en la parte inferior aparece el texto 'Descubre más creadores en Tio'.",
+            "tipo_de_plano": "Plano General",
+            "movimientos_de_camara": [
+                "Dolly In / Zoom In (acercamiento óptico)"
+            ],
+            "texto_en_pantalla": "EiruRcO Discover more creators on TikTok @elturco.pe TikTok"
+        }
+    ],
+    "storytelling": {
+        "historia": {
+            "puntuacion": 2,
+            "analisis": "El video presenta una secuencia coherente de escenas centradas en un personaje, pero carece de una estructura narrativa tradicional. Se establece una situación inicial (un personaje contemplativo), se muestra una faceta de su vida (creador/artesano), pero no hay un cambio o evolución sustancial, ni un clímax o resolución en el sentido narrativo clásico. Es más un retrato o una viñeta de personaje que una historia con un arco argumental definido."
+        },
+        "intencion": {
+            "puntuacion": 5,
+            "analisis": "La intención es claramente comercial y publicitaria: promocionar la plataforma 'Tio'. Este objetivo se ejecuta con total claridad, pasando de una presentación atmosférica y enigmática del creador para generar interés, a una llamada a la acción explícita ('Descubre más creadores en Tio'). El objetivo emocional es asociar la marca con valores de autenticidad, artesanía y creatividad profunda, lo cual se logra eficazmente."
+        },
+        "obstaculo": {
+            "puntuacion": 1,
+            "analisis": "No se presenta ningún conflicto o tensión tangible que el personaje deba superar. El video se enfoca en la presentación de su persona y su oficio de una manera positiva y segura. La narrativa no se construye sobre la superación de un obstáculo, ya sea interno o externo, sino sobre la exhibición de una identidad."
+        },
+        "transformacion": {
+            "puntuacion": 2,
+            "analisis": "Se observa un cambio funcional en el personaje, que pasa de un estado introspectivo y concentrado en su mundo (escenas 1-3) a uno comunicativo y dirigido al espectador (escenas 4 y 6). Sin embargo, esta no es una transformación emocional o cognitiva profunda derivada de los eventos de una historia, sino un cambio de registro actoral para cumplir la función publicitaria del video."
+        },
+        "arco_narrativo": {
+            "puntuacion": 4,
+            "analisis": "A pesar de la debilidad de la historia, la estructura del video como pieza audiovisual publicitaria es muy sólida. Tiene un inicio potente y enigmático que capta la atención (luz dura, personaje intrigante). El desarrollo es breve pero presenta al personaje en acción (con el teléfono y el anillo). El clímax es el momento en que rompe la cuarta pared, sonríe y aparece el logo, y la resolución es una clara llamada a la acción. Es un arco publicitario efectivo."
+        },
+        "humanidad": {
+            "puntuacion": 4,
+            "analisis": "El video proyecta un alto grado de humanidad auténtica. El personaje, con su apariencia distintiva (barba, sombrero) y sus gestos naturales y pausados (acariciar la barba, examinar el anillo), se percibe como una persona real y no como un actor impostado. La sonrisa leve y el contacto visual directo refuerzan esta conexión genuina, aunque el gesto final de señalar es más convencional para una CTA."
+        },
+        "relevancia_narrativa": {
+            "puntuacion": 5,
+            "analisis": "La historia, aunque simple, es extremadamente pertinente y atractiva para la audiencia objetivo: personas interesadas en la creatividad, la artesanía y las historias detrás de los productos. El arquetipo del 'creador auténtico' resuena fuertemente con este público, haciendo que el mensaje y la plataforma 'Tio' sean inmediatamente relevantes y deseables para ellos."
+        },
+        "subtexto": {
+            "puntuacion": 5,
+            "analisis": "El video está cargado de subtexto. El mensaje implícito es que 'Tio' es una plataforma para creadores profundos y auténticos, no para contenido superficial. Esto se comunica a través de: la iluminación dramática (arte, seriedad), la yuxtaposición del aspecto artesanal con la tecnología (creador moderno), y especialmente el diseño sonoro. El uso de 'Whale vocalization' (canto de ballena) es una poderosa metáfora auditiva que asocia a la marca y a sus creadores con la profundidad, la naturaleza y la singularidad."
+        }
+    },
+    "lenguaje": {
+        "dialogos": {
+            "puntuacion": 1,
+            "analisis": "La puntuación es la mínima posible porque el guion proporcionado no incluye el texto del diálogo. Solo se indica que existe un 'Diálogo (ON)' al inicio, pero sin conocer las palabras es imposible evaluar su naturalidad, función narrativa o carga emocional."
+        },
+        "gancho_verbal": {
+            "puntuacion": 1,
+            "analisis": "Es imposible evaluar la eficacia del gancho verbal. Aunque se identifica que la primera frase es un diálogo en pantalla, el texto específico no se ha proporcionado. Sin la frase, no se puede medir su capacidad para captar la atención, su originalidad o la emoción que genera.",
+            "frase_identificada": "No proporcionada en el guion."
+        },
+        "palabras_clave": {
+            "puntuacion": 1,
+            "analisis": "No se pueden extraer palabras clave ya que el guion textual está vacío de contenido. Faltan todas las transcripciones del diálogo y la voz en off, lo que impide identificar términos potentes, emocionalmente resonantes o relevantes para el mensaje central.",
+            "palabras": []
+        },
+        "estilo": {
+            "puntuacion": 1,
+            "analisis": "El estilo comunicativo no puede ser clasificado. El tono (cercano, institucional, inspiracional, etc.) se define por la elección de palabras, la estructura de las frases y el ritmo, elementos completamente ausentes en la información recibida. Analizar solo la estructura de tiempos es insuficiente.",
+            "estilo_identificado": "Indeterminable"
+        }
+    },
+    "sensorial": {
+        "Musica": {
+            "puntuacion": 4,
+            "analisis": "Género inferido: Electrónica / Hip-Hop Instrumental con elementos industriales. La música es clave para el ritmo vertiginoso del video (31.09 escenas/min), proporcionando una base rítmica moderna y energética. Su estilo se alinea con la estética de 'creador urbano', construyendo un arco que va de lo atmosférico/misterioso a un beat más definido que impulsa el llamado a la acción."
+        },
+        "Foleys": {
+            "puntuacion": 5,
+            "analisis": "El uso de foleys es abstracto y simbólico, no realista. La mezcla de sonidos naturales (ballena), urbanos (vehículo, skate) e industriales (taladro, crackle) crea una textura sónica única y memorable. Esta capa auditiva genera profundidad y una atmósfera de 'creación' compleja y moderna, elevando el impacto sensorial y la identidad de la marca."
+        },
+        "Visual": {
+            "puntuacion": 5,
+            "analisis": "El impacto visual es alto debido al uso intencionado de la luz y el ritmo. La transición de una iluminación dura y dramática (misterio, enfoque) a una suave y frontal (conexión, confianza) guía la percepción del espectador. El alto contraste y el ritmo de edición extremadamente rápido crean un dinamismo visual potente, diseñado para capturar la atención de inmediato en plataformas digitales."
+        },
+        "Emocion": {
+            "puntuacion": 5,
+            "analisis": "Emoción primaria: Curiosidad. El video ejecuta un micro-arco emocional efectivo: comienza generando Intriga a través del misterio del personaje y la iluminación, para luego transformarla en Curiosidad sobre su actividad y el objeto que sostiene, culminando en un llamado a la acción que capitaliza directamente esa curiosidad generada."
+        },
+        "Conexion": {
+            "puntuacion": 4,
+            "analisis": "Vínculo principal: Aspiracional / Identitario. El video no vende un producto, vende un arquetipo: el 'creador' moderno, reflexivo y auténtico. La conexión se establece al invitar al espectador a un mundo habitado por estas figuras, generando un deseo de pertenencia o descubrimiento. El vínculo emocional (sonrisa, mirada) sirve para reforzar esta conexión identitaria."
+        }
+    },
+    "neuro": {
+        "analisis_neuro_detallado": {
+            "percepcion_visual": {
+                "puntuacion": 5,
+                "analisis": "El uso deliberado de iluminación (dura lateral/cenital y suave frontal) genera un excelente contraste figura-fondo, aislando eficazmente al sujeto. La jerarquía visual es clara en cada escena, guiando el foco atencional hacia elementos clave como el rostro, el teléfono, el anillo y la mirada a cámara. Las imágenes poseen alta pregnancia por su simplicidad y fuerza simbólica (personaje arquetípico, gesto de señalar), facilitando un procesamiento visual rápido y eficiente."
+            },
+            "atencion": {
+                "puntuacion": 4,
+                "analisis": "La capacidad para sostener la atención es alta debido a una elevada frecuencia de estímulo (duración de escena de 1.93s), que previene la habituación neuronal. La ruptura de patrones se logra con cambios de iluminación y, crucialmente, al pasar de un plano de observación a uno de interpelación directa (mirada a cámara). Sin embargo, la captación de atención inicial se ve comprometida por un primer corte tardío (3.53s), un tiempo que excede el umbral crítico en el consumo de video corto actual y arriesga la pérdida del espectador."
+            },
+            "memoria": {
+                "puntuacion": 4,
+                "analisis": "El video utiliza anclajes efectivos para la codificación en memoria. El personaje, con sus rasgos distintivos (barba, sombrero), crea un 'schema' visual memorable. El cambio a una iluminación suave, la sonrisa y la mirada directa generan un anclaje emocional positivo, asociando al personaje y la marca con cercanía y confianza. El gesto final de señalar, un potente activador de las neuronas espejo, vincula directamente al personaje con la llamada a la acción, reforzando el recuerdo del mensaje."
+            },
+            "fluidez_cognitiva": {
+                "puntuacion": 2,
+                "analisis": "La narrativa visual es fragmentada y carece de una conexión causal intuitiva entre las escenas (contemplación, uso del móvil, examen de un anillo, interpelación directa). Esta falta de una secuencia lógica incrementa la carga cognitiva del espectador, que debe esforzarse para construir un significado coherente. Aunque cada plano es simple, el conjunto no fluye de manera natural, lo que dificulta un procesamiento sin esfuerzo y disminuye la fluidez cognitiva general de la pieza."
+            }
+        },
+        "resultado_neuro": 77.0
+    },
+    "gestos": {
+        "analisis_gestos_detallado": {
+            "gestos_activadores": {
+                "puntuacion": 4,
+                "analisis": "Se observan gestos deliberados y claros que marcan puntos clave de la narrativa. El acto de acariciar la barba (Escena 1) denota reflexión profunda. La evaluación precisa de un anillo (Escena 3) indica un momento de decisión o valoración crucial. Finalmente, el asentimiento (Escena 4) y el gesto de señalar directamente al espectador (Escena 6) son acciones comunicativas potentes que buscan establecer un acuerdo y una llamada a la acción. Estos movimientos son definidos y expresan intención de manera efectiva, aunque sin una carga emocional explosiva."
+            },
+            "microexpresiones_emocionales": {
+                "puntuacion": 2,
+                "analisis": "La información proporcionada es insuficiente para un análisis detallado de microexpresiones. La descripción se centra en gestos corporales amplios y posturas. La única mención es una 'sonrisa leve' (Escena 4), cuya autenticidad no se puede determinar sin más detalles (ej. activación del músculo orbicular). La falta de descripción de movimientos sutiles en cejas, boca o tensión facial limita la capacidad de inferir emociones genuinas subyacentes, basando la comunicación emocional principalmente en gestos más evidentes."
+            },
+            "postura_y_corporalidad": {
+                "puntuacion": 4,
+                "analisis": "La postura del personaje comunica eficazmente su estado interno y su intención a lo largo del video. Se transita desde una postura introspectiva (cabeza inclinada, Escena 1) y cerrada/protectora (sosteniendo el teléfono como barrera, Escena 2), hacia una actitud de apertura y conexión directa con el espectador (mirando a cámara, Escena 4 y 6). Esta evolución postural es coherente y refuerza el arco narrativo, comunicando claramente el cambio de un estado privado a uno público y comunicativo."
+            },
+            "gesto_como_arco_emocional": {
+                "puntuacion": 5,
+                "analisis": "La secuencia de gestos dibuja un arco de transformación muy claro. Comienza en un estado de introspección y deliberación personal (acariciar la barba). Pasa por un punto de inflexión donde se enfoca en un objeto de valor (el anillo), sugiriendo una decisión o revelación. Culmina en una fase de comunicación y acción exterior, primero estableciendo confianza (sonrisa, asentimiento) y luego interpelando directamente al espectador (señalando). Este viaje gestual desde lo interno hacia lo externo es completo y narra una transformación convincente."
+            },
+            "funcion_simbolica_del_gesto": {
+                "puntuacion": 5,
+                "analisis": "Varios gestos poseen una fuerte carga simbólica que trasciende su significado literal. Acariciar la barba (Escena 1) evoca el arquetipo del pensador o sabio. Sostener el anillo (Escena 3) es el gesto más simbólico, representando un posible compromiso, ciclo o decisión vital que se está sopesando. Finalmente, señalar al espectador (Escena 6) rompe la cuarta pared y simboliza una transferencia de responsabilidad, una invitación personal o un mandato, implicando directamente a la audiencia en el mensaje."
+            }
+        },
+        "indice_gef": 80.0
+    },
+    "intencion": {
+        "momento_revelacion_seg": 9.0,
+        "estimulo_detonante": "Sobreimpresión del texto con la llamada a la acción 'Descubre más creadores en Tio' junto al gesto del personaje señalando directamente al espectador.",
+        "tipo_de_intencion": "Comercial/Persuasiva",
+        "consistencia": {
+            "puntuacion": 4,
+            "analisis": "El video construye una atmósfera narrativa e intrigante en torno a un personaje 'creador'. Esta primera fase sirve para generar interés y establecer un tono de autenticidad. La revelación final, aunque directa, es coherente con esta construcción, pues posiciona a la marca como el espacio que aglutina a este tipo de perfiles. La estrategia es consistente, pasando de lo implícito (narrativa) a lo explícito (llamada a la acción)."
+        }
+    },
+    "microestructuras": {
+        "metricas_cuantitativas": {
+            "tiempo_del_primer_corte": 3.53,
+            "duracion_promedio_de_plano": 1.93,
+            "momento_aparicion_texto_clave": null,
+            "numero_total_de_planos": 6
+        },
+        "analisis_cualitativo": {
+            "Curva_Emocional_Secuencial": "Inicia con misterio e intriga (planos oscuros y lentos), progresa hacia la focalización y revelación de un objeto clave, y culmina en una conexión personal directa y una llamada a la acción clara.",
+            "Momento_del_Climax": "6.89s",
+            "Secuencia_Estructural_Replicable": "Sí, coincide con la fórmula de 'Misterio-Revelación-Conexión', una variante del storytelling publicitario clásico 'Problema-Solución' adaptado para generar curiosidad inicial y resolverla con un producto o llamado a la acción.",
+            "Reactivacion_Ciclica": "No, el final con un logo y una llamada a la acción explícita sobre fondo negro rompe la continuidad visual y narrativa con el inicio, impidiendo la creación de un bucle o 'loop' efectivo.",
+            "evaluacion_final": "La microestructura está optimizada para la retención y conversión en un solo visionado mediante un ritmo rápido y una narrativa de venta directa, pero sacrifica el potencial de un bucle viral por una llamada a la acción explícita."
+        },
+        "evaluacion_final": "La microestructura está optimizada para la retención y conversión en un solo visionado mediante un ritmo rápido y una narrativa de venta directa, pero sacrifica el potencial de un bucle viral por una llamada a la acción explícita."
+    },
+    "contrapuntos": {
+        "contrapunto_principal": "Presentación del Individuo vs. Invitación a la Comunidad",
+        "tipo_de_contrapunto": "Relacional",
+        "momento_del_giro_aprox_seg": 25.0,
+        "resolucion_narrativa": "Se resuelve mediante una 'Transformación' de la función narrativa del personaje: pasa de ser un sujeto de observación (el artesano en su mundo) a ser un agente activo y un portal que invita al espectador a una comunidad más amplia, recontextualizando así su identidad individual como parte de un colectivo.",
+        "impacto_emocional": {
+            "puntuacion": 3,
+            "analisis": "El impacto es moderado. Inicialmente, genera intriga y admiración por la figura del creador. El giro hacia la interpelación directa rompe la distancia estética y crea una sensación de conexión y curiosidad, invitando al espectador a sentirse parte de algo. Su naturaleza publicitaria orienta el impacto hacia la inspiración y el interés más que hacia una emoción profunda."
+        }
+    },
+    "contextual": {
+        "objetivo_video": {
+            "analisis": "El objetivo principal es el Branding. El video busca construir y reforzar la identidad de la marca 'Tio' asociándola con valores de autenticidad, profundidad y artesanía moderna. Utiliza un arquetipo de 'creador' para generar una conexión aspiracional. El contenido, desde la estética visual hasta el subtexto sonoro, está perfectamente alineado con este fin. La llamada a la acción ('Descubre más creadores') funciona como un objetivo secundario de Conversión (tráfico a la plataforma), capitalizando el interés generado por el branding.",
+            "objetivo_clasificado": "Branding"
+        },
+        "tipo_cuenta": {
+            "analisis": "La cuenta, perteneciente al sector 'Barbería', utiliza su estética y audiencia establecida (246K seguidores) para promocionar un concepto más amplio: una plataforma para creadores ('Tio'). Esta es una estrategia de diversificación o extensión de marca inteligente, ya que el arquetipo del 'creador' presentado en el video (artesanal, con estilo, barbudo) encaja perfectamente con la audiencia esperada de una barbería de alto nivel. La cuenta aprovecha su credibilidad en un nicho para lanzar una iniciativa en un mercado adyacente, esperando que los valores de marca se transfieran."
+        },
+        "esfuerzo_creativo": {
+            "puntuacion": 5,
+            "analisis": "El esfuerzo creativo es excepcionalmente alto. El video demuestra una planificación y ejecución profesional en múltiples niveles: una narrativa visual estructurada con cambios deliberados en la iluminación (dura, cenital, suave) para guiar la emoción; un diseño de sonido complejo y simbólico que utiliza foleys abstractos (canto de ballena, sonidos industriales) para construir subtexto; y una edición de ritmo rápido diseñada para la retención en redes sociales. No es un contenido espontáneo, sino una pieza publicitaria meticulosamente producida."
+        },
+        "benchmark": {
+            "analisis": "Con 246,100 seguidores, las 30,500 visualizaciones representan una tasa de alcance/visualización del 12.4%, lo cual es un resultado sólido para contenido orgánico. El indicador más destacable es el 'engagement_rate' del 3.8%. Para una cuenta de empresa, este valor está claramente por encima del promedio de la industria (que suele situarse entre el 1% y el 3%). Esto indica que el alto esfuerzo creativo y el mensaje resonaron fuertemente con la audiencia, generando una interacción superior a la media. Los 187 compartidos refuerzan esta conclusión, ya que el compartir es una acción de alto valor que demuestra la relevancia del contenido.",
+            "clasificacion_rendimiento": "Por encima del promedio"
+        }
+    },
+    "potencial": {
+        "indice_potencial_prime": {
+            "puntuacion": 38.0,
+            "analisis": "Basado en calidad narrativa (3.50/5), conexión (0.00/5), sensorial (0.00/5), lenguaje (1.00/5) y estrategia (5.00/5)."
+        },
+        "potencial_de_viralidad": {
+            "puntuacion": 25,
+            "analisis": "El video posee una estructura publicitaria muy competente, con un gancho visual enigmático que asegura la retención inicial. Sin embargo, su potencial de viralidad es bajo. Carece de los dos pilares fundamentales: una emoción primaria fuerte y un punto de conexión o identificación colectiva. El 'misterio' es una emoción de baja intensidad que no suele impulsar el compartido masivo. El clímax, al ser la revelación de una marca, actúa como un final definitivo en lugar de un detonador viral (sorpresa, giro inesperado, humor); de hecho, puede detener el impulso de compartir orgánicamente. El formato es pulcro y de alta producción, lo que lo hace prácticamente irreplicable por otros usuarios, anulando la posibilidad de que se convierta en un trend o meme. Aunque su ritmo es bueno para una vista, no está diseñado como un bucle viral. Su efectividad radica en ser un buen anuncio, no en ser contenido orgánicamente compartible."
+        },
+        "diagnostico_combinado_primexv": {
+            "puntuacion": 34.1,
+            "evaluacion": "Potencial bajo. El video requiere mejoras significativas para destacar."
+        }
+    },
+    "cluster": {
+        "cluster_narrativo_asignado": "Microhistoria emocional con giro",
+        "justificacion": "La elección se fundamenta en la confluencia de varias características clave. La duración del video (11.58s) encaja perfectamente en el criterio de '<15s'. El 'Arco Narrativo' con una puntuación de 4/5 y la 'Presencia de Obstáculo/Giro' confirmada son los indicadores más fuertes de una estructura clásica que culmina en un clímax y una revelación, elementos centrales de este cluster. El alto 'Nivel de Humanidad' (4/5) apoya la existencia de un personaje central con gestualidad emocional. Finalmente, la máxima 'Puntuación de Subtexto' (5/5) es coherente con un giro final que cambia el significado de la acción, requiriendo que la audiencia reinterprete la emoción inicial."
+    },
+    "reaccion": {
+        "curva_de_atencion_proyectada": "La atención se captura de forma inmediata gracias al inicio enigmático y la alta calidad visual (luz dura, personaje intrigante), como señala el informe. La atención se mantiene durante el breve desarrollo debido a la expectativa generada. El punto de máxima atención es el clímax, cuando el personaje rompe la cuarta pared, creando un pico de engagement al interpelar directamente al espectador. El riesgo de desconexión es bajo, pero se sitúa justo antes del clímax si el misterio inicial no resulta suficientemente atractivo para el usuario.",
+        "curva_emocional_proyectada": "Inicia con intriga y curiosidad, generada por la estética y el misterio. Esta emoción transita hacia una tensión expectante durante el breve desarrollo. El clímax provoca un cambio abrupto y positivo: la sonrisa y la ruptura de la cuarta pared generan una sensación de sorpresa agradable, conexión y confianza. La curva finaliza con una emoción de interés o aspiración asociada directamente a la marca presentada en la resolución.",
+        "nivel_de_identificacion": {
+            "puntuacion": 2,
+            "analisis": "Bajo. La debilidad de la historia y la falta de un contexto emocional definido impiden que el espectador promedio se vea reflejado en el personaje o la situación. La conexión es más estética y aspiracional que personal o empática. El espectador puede pensar 'me gusta este estilo' en lugar de 'este soy yo'."
+        },
+        "reaccion_proyectada_dominante": "Acción Funcional",
+        "anclaje_memorable_final": "La imagen del personaje rompiendo la cuarta pared, sonriendo directamente a la cámara. Este momento de conexión directa, combinado con la aparición simultánea del logo, es el estímulo más potente y diseñado para crear una asociación positiva y duradera con la marca."
+    }
+}
