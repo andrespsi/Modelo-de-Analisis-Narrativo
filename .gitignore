@@ -1,18 +1,18 @@
-# Ocultar TODOS los scripts de Python (esta es tu innovación principal)
+# Ocultar TODOS los scripts de Python
 *.py
 
-# Ocultar la carpeta de cache de Python (archivos basura)
+# Ocultar la carpeta de cache de Python 
 __pycache__/
 
 # Ocultar la carpeta de archivos de audio temporales
 temp_separated/
 
-# Ocultar archivos de entorno virtual (buena práctica)
+# Ocultar archivos de entorno virtual
 venv/
 .venv/
 *venv/
 
-# Ocultar archivos de claves API y secretos (¡MUY IMPORTANTE!)
+# Ocultar archivos de claves API y secretos 
 .env
 *.env
 secrets.toml
