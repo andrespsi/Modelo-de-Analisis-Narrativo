@@ -65,6 +65,6 @@ Este repositorio contiene **ejemplos de los resultados** generados por el sistem
 
 **Andrés Eduardo Gonzales Palacios**
 
-https://www.linkedin.com/in/andr%C3%A9s-gonzales-palacios-57344156/
-https://bit.ly/3LCM6UT
-andresgp.psi@gmail.com
+*https://www.linkedin.com/in/andr%C3%A9s-gonzales-palacios-57344156/*
+*https://bit.ly/3LCM6UT*
+*andresgp.psi@gmail.com*
